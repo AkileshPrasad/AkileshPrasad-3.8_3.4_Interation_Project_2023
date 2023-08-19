@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<head>
+	<title>Boards Games</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<body>
+   <div id="wrapper">
+      
+      <header><h1>Home</h1></header>
+     
+      <nav>
+         <ul>
+           <li><a href="index page.html">Home</a></li>
+           <li><a href="games page.html">Board Games</a></li>
+           <li><a href="contact page.html">Contact</a>
+           
+        </ul>
+     </nav>
+     
+     <aside>
+       
+    <h1>Welcome to Board Games. This is where you can see all the different types of</h1>
+	<h1>board games there are, like Monopoly, Snakes and Ladders, Scrabble and many</h1>
+	<h1>many more.</h1>
+     
+  
+     
+     </aside>
+     
+     
+ 
+     
+      <footer><h3>&copy Copyright Akilesh Prasad 2023</h3></footer>
+      
+      
+      </div>
+  </body>
+
+
+
+<head>
+<style>
+body {
+  color: white;
+
+</style>
+</head>
+<body>		 
+		 
+		 
+		 
+		 
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+	
+<head>
+<style>
+h1 {
+  text-shadow: 3px 3px black;
+}
+</style>
+</head>
